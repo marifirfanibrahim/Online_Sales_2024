@@ -1,5 +1,6 @@
 By using Google Sheets, this data analysis explores the online sales trends of different products in 2024.
 
+
 This dataset contains several columns that shows certain information on the online sales in 2024. These are:
 1. Transaction ID
 2. Date
@@ -11,10 +12,12 @@ This dataset contains several columns that shows certain information on the onli
 8. Region
 9. Payment Method
 
+
 The objectives of this study is:
 1. to discover the overall trend of online sales in 2024.
 2. to discover the sales of every products in different months in 2024.
 3. to discover the products with the best and worst sales in different months in 2024.
+
 
 To prepare the data for the anlysis:
 1. Create a copy of the dataset into a new spreadsheet.
@@ -22,6 +25,7 @@ To prepare the data for the anlysis:
 3. Remove any blank rows.
 4. Convert columns into their respective formats i.e. number, date, etc.
 5. Re-format the 'Date' column to show only the month name.
+
 
 To fulfill the aforementioned objectives: 
 1. A pivot table is made to showcase the month and the sum of the revenue. This is then made into a line chart. This line chart shows the overall trend of online sales in 2024.
