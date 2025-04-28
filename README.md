@@ -1,4 +1,4 @@
-By using Google Sheets, this data analysis explores the online sales trends of different products in 2024.
+By using Google Sheets, this data analysis explores the online sales trends of various products in 2024.
 
 
 This dataset contains several columns that shows certain information on the online sales in 2024. These are:
