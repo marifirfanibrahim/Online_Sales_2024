@@ -1,5 +1,5 @@
 By using Google Sheets, this data analysis explores the online sales trends of various products in 2024.
-
+This study shows that the overall sales have been decreasing throughout the whole year with a 50% loss in profit. The number of units sold seems to be irrelevant to the profit, where the highest contributors to the sales were the items with the highest prices.
 
 This dataset contains several columns that shows certain information on the online sales in 2024. These are:
 1. Transaction ID
